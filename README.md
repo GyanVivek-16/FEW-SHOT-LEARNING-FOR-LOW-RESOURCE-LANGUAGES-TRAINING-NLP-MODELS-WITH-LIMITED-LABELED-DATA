@@ -1,0 +1,2 @@
+# FEW-SHOT-LEARNING-FOR-LOW-RESOURCE-LANGUAGES-TRAINING-NLP-MODELS-WITH-LIMITED-LABELED-DATA
+Few-shot learning improves Neural Machine Translation for low-resource languages by enabling models to learn from few examples instead of large datasets. Using meta-learning, fine-tuning, and prototypical networks, the approach boosts translation accuracy, reduces data needs, and aids under-resourced languages.
